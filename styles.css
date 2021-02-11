@@ -1,0 +1,14 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+body
+{text-align:justify;
+}
+header
+{font-size:  xx-large;font-weight: 900 ;text-align: center}
+main
+{
+  font-size: medium;
+}
+footer
+{ font-size: small;text-align: center}
+div
+{text-align: center}
