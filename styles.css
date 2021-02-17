@@ -47,20 +47,22 @@ padding: 10px;}
   {text-align: left;  
   color: yellow;
   font-size: larger;}
-  .container
-  {font-size: 75px;}
+  
 }
 
 @media all and (max-width:1280px)
-{.cards
-{text-align: center;
-padding-top: 30px;
-padding-bottom: 30px;
-color: blue;
-font-size: 40px;
-}
-.donation{
+{
+  .cards
+  {text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: blue;
+  font-size: 40px;
+  }
+  .donation{
   font-size: 70px;
   color: blueviolet;
-}
+  }
+  .container
+  {font-size: 75px;}
 }
