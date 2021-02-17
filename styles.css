@@ -42,7 +42,7 @@ padding: 10px;}
 
 
 @media all and (min-device-width:1024px)
-{.cards
+{.card
 {text-align: left;
 color: yellow;}
 }
