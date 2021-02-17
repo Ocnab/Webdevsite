@@ -44,14 +44,9 @@ padding: 10px;}
 @media all and (min-device-width:1024px)
 {.card
 {text-align: left;
-color: yellow;}
+color: yellow;
+font-size: larger;}
 }
-@media all and (max-device-width:1024px)
-{.cards
-{text-align: left;
-color: blue;}
-}
-
 
 @media all and (max-width:1280px)
 {.cards
