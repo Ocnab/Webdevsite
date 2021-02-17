@@ -47,6 +47,8 @@ padding: 10px;}
   {text-align: left;  
   color: yellow;
   font-size: larger;}
+  .container
+  {font-size: 75px;}
 }
 
 @media all and (max-width:1280px)
