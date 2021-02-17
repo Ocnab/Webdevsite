@@ -43,6 +43,11 @@ padding: 10px;}
 {.card
   {color: red;
   }
+  @media all and (max-width:600px)
+{.card
+  {color: purple;
+  }
+
 } 
 @media all and (min-device-width:1024px)
 {.card
