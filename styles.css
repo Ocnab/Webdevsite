@@ -39,12 +39,12 @@ background-color: cadetblue;
   border-width: 2px;
 border-style: solid;
 padding: 10px;}
-
-
+.donation
+{text-align: center;}
 @media all and (min-device-width:1024px)
 {
   .card
-  {text-align: left;
+  {text-align: left;  
   color: yellow;
   font-size: larger;}
 }
