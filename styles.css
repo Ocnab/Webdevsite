@@ -12,7 +12,6 @@ footer
 { font-size: small;text-align: center}
 div
 {text-align: center}
-@media (max-width:600px)
 .banner
 {color : blue; 
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
@@ -31,9 +30,16 @@ padding: 20px;}
 {border-color: black;
   border-width: 5px;
 border-style: solid;
-background-color: cadetblue;}
+background-color: cadetblue;
+padding-left: 10px;
+  padding-right: 10px;}
 .button
 {border-color: red;
   border-width: 2px;
 border-style: solid;
 padding: 10px;}
+
+@media (max-device-width:800px)
+{padding-left: 10px;
+  padding-right: 10px;
+}
