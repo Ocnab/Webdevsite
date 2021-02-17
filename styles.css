@@ -39,8 +39,16 @@ border-style: solid;
 padding: 10px;}
 
 @media all and (max-device-width:800px)
-{div
+{.card
   {color: red;
+  padding-left: 10px;
+  padding-right: 10px; 
+  }
+} 
+
+@media all and (max-device-width:1024px)
+{.card
+  {color: blue;
   padding-left: 10px;
   padding-right: 10px; 
   }
