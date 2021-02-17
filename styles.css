@@ -38,9 +38,10 @@ background-color: cadetblue;
 border-style: solid;
 padding: 10px;}
 
-@media (max-device-width:800px)
-div
-{color: red;
+@media all and (max-device-width:800px)
+{div
+  {color: red;
   padding-left: 10px;
   padding-right: 10px; 
-}
+  }
+} 
