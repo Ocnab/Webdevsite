@@ -38,26 +38,12 @@ background-color: cadetblue;
 border-style: solid;
 padding: 10px;}
 
-@media all and (max-device-width:800px)
-{.card
-  {color: red;
-  padding-left: 10px;
-  padding-right: 10px; 
-  }
-} 
 
-@media all and (max-device-width:1024px)
-{.card
-  {color: blue;
-  padding-left: 10px;
-  padding-right: 10px; 
-  }
-} 
 @media all and (max-width:480px)
 {.card
   {color: green;
-  padding-left: 10px;
-  padding-right: 10px; 
+    font-size: x-large
+  ; 
   }
 } 
 @media all and (min-device-width:1024px)
