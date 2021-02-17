@@ -53,11 +53,7 @@ padding: 10px;}
 } 
 
 @media all and (min-device-width:1024px)
-
-{
-  .card
-  {color: yellow;
-  width:auto;
-  font-size: larger;
-  }
+{.cards
+{text-align: left;
+color: yellow;}
 }
