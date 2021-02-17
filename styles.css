@@ -39,6 +39,8 @@ border-style: solid;
 padding: 10px;}
 
 @media (max-device-width:800px)
-{padding-left: 10px;
-  padding-right: 10px;
+div
+{color: red;
+  padding-left: 10px;
+  padding-right: 10px; 
 }
