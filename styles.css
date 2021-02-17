@@ -57,6 +57,12 @@ padding: 10px;}
 {text-align: left;
 color: yellow;}
 }
+@media all and (max-device-width:1024px)
+{.cards
+{text-align: left;
+color: blue;}
+}
+
 
 @media all and (min-width:1024px)
 {.cards
