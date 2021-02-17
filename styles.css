@@ -41,17 +41,6 @@ border-style: solid;
 padding: 10px;}
 
 
-@media all and (max-width:480px)
-{.card
-  {color: red;
-  }
-  @media all and (max-width:600px)
-{.card
-  {color: purple;
-  }
-
-} 
-
 @media all and (min-device-width:1024px)
 {.cards
 {text-align: left;
@@ -68,5 +57,4 @@ color: blue;}
 {.cards
 {text-align: left;
 color: green;}
-}
 }
