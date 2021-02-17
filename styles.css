@@ -53,7 +53,7 @@ padding: 10px;}
   padding-right: 10px; 
   }
 } 
-@media all and (max-width:1024px)
+@media all and (max-device-width:480px)
 {.card
   {color: green;
   padding-left: 10px;
@@ -65,5 +65,9 @@ padding: 10px;}
   {color: yellow;
   width:auto;
   font-size: larger;
+  }
+  .cards
+  {
+    text-align: left;
   }
 } 
