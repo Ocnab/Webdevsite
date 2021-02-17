@@ -17,7 +17,23 @@ div
 {color : blue; 
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 .container
-
+{border-color: black;
+  border-width: 15px;
+border-style: solid;
+padding left: 30px;
+padding right: 30px;}
 .cards
+{border-color: red;
+  border-width: 5px;
+border-style: solid;
+padding: 20px;}
 .card
+{border-color: black;
+  border-width: 5px;
+border-style: solid;
+background-color: cadetblue;}
 .button
+{border-color: red;
+  border-width: 2px;
+border-style: solid;
+padding: 10px;}
