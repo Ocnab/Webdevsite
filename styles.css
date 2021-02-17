@@ -12,6 +12,8 @@ footer
 { font-size: small;text-align: center}
 div
 {text-align: center}
+a
+{text-align: center}
 .banner
 {color : blue; 
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
@@ -57,9 +59,5 @@ padding: 10px;}
   {color: yellow;
   width:auto;
   font-size: larger;
-  }
-  .cards
-  {
-    text-align: left;
   }
 }
